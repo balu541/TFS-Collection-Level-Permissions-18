@@ -1,6 +1,6 @@
 # TFS-Collection-Level-Permissions-18
 Team Foundation Server (#Collection Level Permissions)
-## You guys can also find the  referebce in this website::
+## You guys can also find the  reference in this website::
 https://roadtoalm.com/2014/07/28/add-permissions-with-tfssecuritythe-ultimate-reference/
 ## Refer the CSV File to frame all those permissions
 
